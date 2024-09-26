@@ -11,11 +11,11 @@ I'm currently a student at Carnegie Mellon University majoring in Artificial Int
 Check out my [Portfolio](https://pras.dev) for related projects!
 
 ## 🎯 Competitive Programming
-- LeetCode: [Your LeetCode Profile](https://leetcode.com/pras28)
-- Codeforces: [Your Codeforces Profile](https://codeforces.com/profile/prasanna28)
-- CodeChef: [Your CodeChef Profile](https://www.codechef.com/users/prasanna028)
+- LeetCode: [/pras28](https://leetcode.com/pras28)
+- Codeforces: [/prasanna28](https://codeforces.com/profile/prasanna28)
+- CodeChef: [/prasanna028](https://www.codechef.com/users/prasanna028)
 
 ## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ppantha)
+- LinkedIn: [/ppantha](https://www.linkedin.com/in/ppantha)
 - Email: pras@cmu.edu
 
