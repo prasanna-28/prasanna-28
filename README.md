@@ -1,7 +1,7 @@
 # Hi. 👋 Welcome to my GitHub Profile
 
 ## 🚀 About Me
-I'm currently a student at Carnegie Mellon University majoring in Artificial Intelligence. My current focus is on:
+I am a student at Carnegie Mellon University majoring in Artificial Intelligence. My current focus is on:
 
 - 📚 Data Structures, Algorithms, and Competitive Programming
 - 🧠 Machine Learning & AI
