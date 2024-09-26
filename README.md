@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I am a student at Carnegie Mellon University majoring in Artificial Intelligence. I enjoy working on:
+I am a student at Carnegie Mellon University majoring in Artificial Intelligence. I enjoy working with:
 
 - 🧠 Machine Learning & AI
 - 🏗️ Compiler Development
