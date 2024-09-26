@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi. 👋 Welcome to my GitHub Profile
 
-<!--
-**prasanna-28/prasanna-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm currently a student at Carnegie Mellon University majoring in Artificial Intelligence. My current focus is on:
 
-Here are some ideas to get you started:
+- 📚 Data Structures, Algorithms, and Competitive Programming
+- 🧠 Machine Learning & AI
+- 🏗️ Compiler Development
+- 💻 Full-Stack Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my [Portfolio](https://pras.dev) for related projects!
+
+## 🎯 Competitive Programming
+- LeetCode: [Your LeetCode Profile](https://leetcode.com/pras28)
+- Codeforces: [Your Codeforces Profile](https://codeforces.com/profile/prasanna28)
+- CodeChef: [Your CodeChef Profile](https://www.codechef.com/users/prasanna028)
+
+## 📫 How to Reach Me
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ppantha)
+- Email: pras@cmu.edu
+
